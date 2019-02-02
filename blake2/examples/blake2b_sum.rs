@@ -47,3 +47,4 @@ fn main() {
         process::<Blake2b, _>(&mut io::stdin(), "-");
     }
 }
+
